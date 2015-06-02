@@ -1,6 +1,10 @@
 # spring-oauth2-samples
 Some sample projects using Spring OAuth 2
 
+First of all start the spring boot application.
+
+The authorization server has only one client configured. Rigth now only two methods can be used to obtain an access token.
+
 #Resource owner password-based grant
 To obtain an access token usign `password` grant type do the following command:
 
